@@ -7811,6 +7811,10 @@ textarea.form-control-lg {
   --bs-text-opacity: 1;
 }
 
+.text-contact {
+  color: white;
+}
+
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
@@ -11249,6 +11253,10 @@ textarea.form-control-lg {
 
   .fs-4 {
     font-size: 1.5rem !important;
+  }
+
+  .fs-5 { 
+    font-size 0.3rem;
   }
 }
 @media print {
